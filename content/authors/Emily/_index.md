@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nikola Schutte
+title: Emily Schutte
 
 # Username (this should match the folder name)
 authors:
@@ -17,7 +17,7 @@ organizations:
   - name: Psychological Methods, University of Amsterdam
     url: 'https://psyres.uva.nl/content/research-groups/programme-group-psychological-methods/programme-group-psychological-methods.html'
 
-weight: 20 # change order on website
+weight: 80 # change order on website
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
