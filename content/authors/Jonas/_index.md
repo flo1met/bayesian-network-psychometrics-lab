@@ -13,6 +13,8 @@ organizations:
   - name: New Science of Mental Disorders (NSMD) Consortium, Maastricht University
     url: 'https://nsmd.eu/'
 
+weight: 60 # change order on website
+
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
