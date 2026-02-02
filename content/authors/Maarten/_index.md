@@ -13,6 +13,8 @@ organizations:
   - name: Department of Psychological Methods, University of Amsterdam
     url: 'https://psyres.uva.nl/content/research-groups/programme-group-psychological-methods/programme-group-psychological-methods.html'
 
+weight: 50 # change order on website
+
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 

@@ -1,27 +1,38 @@
 ---
 # Display name
-title: Don van den Bergh
+title: Florian Metwaly
 
 # Username (this should match the folder name)
 authors:
-  - Don van den Bergh
+  - Florian Metwaly
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
   - name: Psychological Methods, University of Amsterdam
     url: 'https://psyres.uva.nl/content/research-groups/programme-group-psychological-methods/programme-group-psychological-methods.html'
 
-weight: 10 # change order on website
+weight: 90 # change order on website
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
+# education:
+#   courses:
+#   - course: PhD - Bayesian Network Psychometrics
+#     institution: University of Amsterdam, The Netherlands
+#     year: 2022 - present
+#   - course: MSc in Methodology and Statistics
+#     institution: Utrecht University, The Netherlands
+#     year: 2020 - 2022
+#   - course: BSc in Psychology
+#     institution: Ss. Cyril and Methodius University, North Macedonia
+#     year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -30,13 +41,17 @@ weight: 10 # change order on website
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:d.vandenbergh@uva.nl'
-  - icon: google-scholar
-    icon_pack: ai
-    link:  https://scholar.google.nl/citations?user=WbbKtuQAAAAJ&hl=en
+    link: 'mailto:f.j.metwaly@uva.nl'
+ # - icon: google-scholar
+   # icon_pack: ai
+   # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/vandenman
+    link: https://github.com/flo1met
+  #- icon: google-scholar
+   # icon_pack: ai
+   # link: https://scholar.google.com/citations?user=cn5deUoAAAAJ&hl=en
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -54,5 +69,4 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-I am a postdoctoral researcher in the Psychological Methods Department at the University of Amsterdam. My research centers on Bayesian Graphical Models (mostly the Gaussian Graphical Model and variant of the Ising model) and general Bayesian inference (e.g., Bayesian regression and ANOVA). I am very interested in Markov Chain Monte Carlo (MCMC) methods, especially those that work well with discrete parameters. Additionally, I actively contribute to JASP, an open-source statistical software program.
 
